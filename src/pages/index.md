@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: House of Golang
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We help build your Golang remote team in Eastern Europe. Faster and
+      cheaper than anyone else. We can prove it.
     actions:
       - label: Learn More
         url: /features
