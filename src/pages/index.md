@@ -25,7 +25,7 @@ sections:
       background_image_repeat: repeat
     image: images/Untitled design.png
   - type: features_section
-    title: 'Why we? We focus on the 3 crucial factors:'
+    title: 'Why chose us? We are focusing on the 3 crucial factors:'
     features:
       - title: Recruitment
         content: >-
