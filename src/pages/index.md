@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: ssaDSA
+    title: We help scaling top dev teams
     subtitle: >-
       We help build your Golang remote team in Eastern Europe. Faster and
       cheaper than anyone else. We can prove it.
