@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: 'Why chose us? We are focusing on the 3 crucial factors:'
     features:
-      - title: Recruitment
+      - title: 1.Recruitment
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
