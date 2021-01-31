@@ -25,7 +25,7 @@ sections:
       background_image_repeat: repeat
     image: images/Untitled design.png
   - type: features_section
-    title: Features
+    title: Why we?
     features:
       - title: Feature 1
         content: >-
