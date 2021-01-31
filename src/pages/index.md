@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We specialize in building Golang dev teams
+    title: We specialize in building Golang dev teams in Europe
     subtitle: >-
       We help build your Golang remote team in Eastern Europe. Faster and
       cheaper than anyone else. We can prove it.
