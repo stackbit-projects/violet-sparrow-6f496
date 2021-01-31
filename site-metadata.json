@@ -1,7 +1,7 @@
 {
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
-        "title": "Scouting",
+        "title": "House of Golang",
         "has_nav": true,
         "nav_links": [
             {
