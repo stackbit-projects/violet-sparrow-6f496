@@ -5,7 +5,7 @@ sections:
     title: We Specialize In Building Golang Dev Teams in Europe
     subtitle: >-
       Scale your team faster. We help build your Golang remote team in Eastern
-      Europe. Faster and cheaper than anyone else. We can prove it.
+      Europe. Faster and cheaper than anyone else. We can prove it!
     actions:
       - label: Learn More
         url: /features
